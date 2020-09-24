@@ -1,2 +1,3 @@
 # foodeze
 App to make running a loal food-buying group easy. 
+Supplier availability API, online ordering, easy admin, invoices, notifications, messaging, member management, reports...
