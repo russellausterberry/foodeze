@@ -11,7 +11,7 @@ An app to do it all...
 * wizard to wrangle availability lists from various suppliers
 * shopping cart to enable custom online orders for members
 * messaging and chat to notify the right members when to order, what extras they can snaffle, or resolve issues
-* managemtent for rostering of packers, entering finances and other jobs
+* management for rostering of packers, entering finances and other jobs
 * accounting for tracking member invoices and balances, and integrating with external accounting package
 * reporting to track all moving parts to show final position at any moment
 * sophisticated interface to show members, stock, accounts and orders sliced and diced many different ways
