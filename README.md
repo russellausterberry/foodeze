@@ -1,7 +1,9 @@
 # foodeze
 An app to make running a loal food-buying group easy.
 
-Eating well and living mindfully leads away from supermarkets with their long supply chains, squeezing of farmers and chasing of shareholder profits toward small groups of people cooperating to buy from trusted farmers in their area. To source organic food locally and reliably is quite complex especially on the scale of 10 - 30 members of a typical food group. Foodeze is intended to take away much of the pain of organising custom boxes to members on a regular basis.
+Eating well and living mindfully leads away from supermarkets with their long supply chains, squeezing of farmers and chasing of shareholder profits toward small groups of people cooperating to buy from trusted farmers in their area. To source organic food locally and reliably is quite complex especially on the scale of 10 - 30 members of a typical food group. 
+
+Foodeze is intended to take away much of the pain of organising custom boxes to members on a regular basis. Currently in development!
 
 ## requirements
 An app to do it all... 
@@ -13,9 +15,16 @@ An app to do it all...
 * accounting for tracking member invoices and balances, and integrating with external accounting package
 * reporting to track all moving parts to show final position at any moment
 * sophisticated interface to show members, stock, accounts and orders sliced and diced many different ways
+... for multiple groups!
 
-## scope
+## major features
+* 
+* supplier availability API to import various formats of available items into a rich native format allowing searching on many attributes (name, description, quality, size, color etc)
+* data storage server and client-side
+  * suppliers 
+  * stock
+  * members
+  * invoices, payments, balances
+  * sales, expenses, *assets* etc
 
-
-Supplier availability API, online ordering, easy admin, invoices, notifications, messaging, member management, reports...
 
