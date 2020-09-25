@@ -15,6 +15,7 @@ An app to do it all...
 * accounting for tracking member invoices and balances, and integrating with external accounting package
 * reporting to track all moving parts to show final position at any moment
 * sophisticated interface to show members, stock, accounts and orders sliced and diced many different ways
+
 ... for multiple groups!
 
 ## major features
@@ -30,7 +31,7 @@ An app to do it all...
   * members
   * invoices, payments, balances
   * sales, expenses, *assets* etc
- * scheduling of order cycle
+* scheduling of order cycle
   * making available
   * reminder to order
   * order window
@@ -42,14 +43,14 @@ An app to do it all...
   * invoices sent to members
   * member payments entered
   * order cycle audit
- * admin functionality
+* admin functionality
   * screens listing stock, members, orders, invoices, reports
   * query filter mechanism for swift search/update/delete/substitute of items or other
   * prepare PDF versions of packing slips, delivery sheets, extras sheet to send via email
- * notifications
+* notifications
   * ability to send scheduled, templated notifications to all or a subset of all members (eg all members who ordered, this current packing team)
   * integrate with external messaging/chat service
- * accounting
+* accounting
   * once member order has progressed from initial order to revised order to adjusted order to invoice to revised invoice... capture final invoice as PDF, save some metadata & iscard all other order data.
   * track metadata (totals per order cycle) for the following:
    * total sales 
