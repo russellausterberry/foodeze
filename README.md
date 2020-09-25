@@ -6,21 +6,13 @@ Eating well and living mindfully leads away from supermarkets with their long su
 ## requirements
 An app to do it all... 
 * web pages to explain procedures and encourage people to join
-* wrangle availability lists from various suppliers
-* enable custom online orders for members
-* notify the right members when to order or what extras they can snaffle
-* manage rostering for packing, finances and other jobs
-* track member invoices and balances
-* track all moving parts to show final position at any moment
-* present members or admin with a sophisticated interface showing members, stock, accounts and orders sliced and diced many different ways
-* sufficient tracking to press a button and satisfy an auditor at any time...
-
-
-More specifically:
-- Admin
-  - calendar based order cycle
-    - set availability
-    
+* wizard to wrangle availability lists from various suppliers
+* shopping cart to enable custom online orders for members
+* messaging and chat to notify the right members when to order, what extras they can snaffle, or resolve issues
+* managemtent for rostering of packers, entering finances and other jobs
+* accounting for tracking member invoices and balances, and integrating with external accounting package
+* reporting to track all moving parts to show final position at any moment
+* sophisticated interface to show members, stock, accounts and orders sliced and diced many different ways
 
 ## scope
 
