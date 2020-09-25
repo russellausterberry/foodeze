@@ -61,6 +61,27 @@ An app to do it all...
     * current balance (bank account)
     * current position (if food group wound up business today)
    
-  
+## tech stack
+* framework: Svelte
+  * lightweight
+  * no virtual DOM
+  * fast
+  * good combo of server-side & client-side, meaning SEO-friendly
+  * dissolves into vanilla JS
+  * easy to learn
+* routing: Sapper
+  * one file = one component = one page
+  * handles all routing complexity
+  * simple development
+* database:
+  * TBA
+* CSS
+  * TBA (Tailwind?)
+* integrations (TBA)
+  * notifications
+  * chat
+  * accounting
+
+
 
 
