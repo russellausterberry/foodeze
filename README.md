@@ -20,11 +20,11 @@ An app to do it all...
 
 ## major features
 * supplier availability API to import various formats of available items into a rich native format allowing searching on many attributes, eg
- * name
- * description
- * quality
- * size
- * color
+  * name
+  * description
+  * quality
+  * size
+  * color
 * data storage server and client-side
   * suppliers 
   * stock
@@ -53,13 +53,13 @@ An app to do it all...
 * accounting
   * once member order has progressed from initial order to revised order to adjusted order to invoice to revised invoice... capture final invoice as PDF, save some metadata & iscard all other order data.
   * track metadata (totals per order cycle) for the following:
-   * total sales 
-   * cost of sales (including each supplier's invoice total)
-   * expenses (any non-supplier outgoing fees)
-   * assets (vehicle value, stock)
-   * liabilities (membership fees etc)
-   * current balance (bank account)
-   * current position (if food group wound up business today)
+    * total sales 
+    * cost of sales (including each supplier's invoice total)
+    * expenses (any non-supplier outgoing fees)
+    * assets (vehicle value, stock)
+    * liabilities (membership fees etc)
+    * current balance (bank account)
+    * current position (if food group wound up business today)
    
   
 
