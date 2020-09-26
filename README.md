@@ -51,7 +51,7 @@ An app to do it all...
   * ability to send scheduled, templated notifications to all or a subset of all members (eg all members who ordered, this current packing team)
   * integrate with external messaging/chat service
 * accounting
-  * once member order has progressed from initial order to revised order to adjusted order to invoice to revised invoice... capture final invoice as PDF, save some metadata & iscard all other order data.
+  * once member order has progressed from initial order to revised order to adjusted order to invoice to revised invoice... capture final invoice as PDF, save some metadata & discard all other order data.
   * track metadata (totals per order cycle) for the following:
     * total sales 
     * cost of sales (including each supplier's invoice total)
@@ -82,6 +82,7 @@ An app to do it all...
   * chat
   * accounting
 
-
+## Wireframes
+* [availability-prep ][https://wireframe.cc/rieer4]
 
 

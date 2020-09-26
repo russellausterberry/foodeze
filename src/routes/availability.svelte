@@ -5,4 +5,4 @@
 
 <Icon data={ chevronCircleLeft } scale="3"/>
 <span>Make available content</span>
-<Icon data={ chevronCircleRight } scale="3" />
+<Icon data={ chevronCircleRight } scale="3" style="color: red"/>
