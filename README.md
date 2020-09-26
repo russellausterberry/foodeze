@@ -83,6 +83,6 @@ An app to do it all...
   * accounting
 
 ## Wireframes
-* [availability-prep] [https://wireframe.cc/rieer4]
+* [availability-prep](https://wireframe.cc/rieer4)
 
 
