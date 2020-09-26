@@ -82,7 +82,6 @@ An app to do it all...
   * chat
   * accounting
 
-## Wireframes
-* [availability-prep](https://wireframe.cc/rieer4)
+
 
 
